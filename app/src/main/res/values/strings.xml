@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <!-- Strings in Help activity -->
+    <string name="title_activity_help">Help</string>
+    <string name="help_msg">Rules of the game:\n\nThe object of Tic Tac Toe is to get three in a row. You play on a three by three game board. The first player is known as X and the second is O. Players alternate placing Xs and Os on the game board until either oppent has three in a row or all nine squares are filled.\n\nNote: In our one player game mode computer always put O and human always put X.</string>
+</resources>

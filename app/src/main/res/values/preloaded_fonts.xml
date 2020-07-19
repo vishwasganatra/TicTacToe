@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/actor</item>
+        <item>@font/aldrich</item>
+        <item>@font/alef</item>
+        <item>@font/alegreya_sans_sc_medium</item>
+        <item>@font/alegreya_sans_sc_thin</item>
+        <item>@font/audiowide</item>
+    </array>
+</resources>
