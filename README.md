@@ -1,4 +1,6 @@
-# Tic Tac Toe Android Game
+
+# Tic Tac Toe Android Game   
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **A Cool multiplayer/singleplayer Tic-Tac-Toe Game**
 
