@@ -55,7 +55,7 @@
 
 - Unzip the files and open with [Android Studio](https://developer.android.com/studio/)
 
-- Change the demo **Google Admob** demo App Id and Ads Id.
+- Change the **Google Admob** demo App Id and Ads Id.
 
 ### Download App
 
